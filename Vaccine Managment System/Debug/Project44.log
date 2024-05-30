@@ -1,0 +1,3 @@
+﻿  Covid_Management.cpp
+C:\Users\SAAD_ASHRAF1\source\repos\Project44\Project44\Covid_Management.cpp(205,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project44.vcxproj -> C:\Users\SAAD_ASHRAF1\source\repos\Project44\Debug\Project44.exe
